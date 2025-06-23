@@ -1,0 +1,74 @@
+position,IconPath,GROUP Name,Name,URL
+1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/graylog.png,Freebird Local,Graylog,http://192.168.1.75:9000/
+1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nginx.png,Freebird Local,NPM,http://192.168.1.52:81/nginx/proxy
+1,https://cdn.jsdelivr.net/gh/selfhst/icons/png/portainer.png,Freebird Local,Portainer,https://192.168.1.50:9443/#!/home
+1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Freebird Local,PVE,https://192.168.1.3:8006/
+1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/remotely.png,Freebird Local,PVE1 DRAC,http://192.168.1.6/
+1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/remotely.png,Freebird Local,PVE2 DRAC,http://192.168.1.7/
+1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/remotely.png,Freebird Local,PVE3 DRAC,http://192.168.1.8/
+2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apache.png,Freebird Proxy,Apache Guac,https://guac.starshipks.com/#/
+2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/goaccess-light.png,Freebird Proxy,GoAccess,https://labstats.starshipks.com/
+2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/grafana.png,Freebird Proxy,Grafana,https://metrics.starshipks.com/
+2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/graylog.png,Freebird Proxy,Graylog,https://graylog.starshipks.com/
+2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linkwarden.png,Freebird Proxy,Linkwarden,https://linkwarden.starshipks.com/
+2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/meshcentral.png,Freebird Proxy,MeshCentral,https://rs.starshipks.com/
+2,https://cdn.jsdelivr.net/gh/selfhst/icons/png/ara-records-ansible-light.png,Freebird Proxy,Order Tracking,https://ordertracking.starshipks.com/
+2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Freebird Proxy,PVE,https://lab.starshipks.com:48006/
+2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tandoor-recipes.png,Freebird Proxy,Tandoori,https://tandoor.starshipks.com/
+2,https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets//assets/uptimekuma.svg,Freebird Proxy,UptimeKuma,https://labkuma.starshipks.com/dashboard
+2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pastebin-dark.png,Freebird Proxy,PasteBin,https://pastebin.starshipks.com
+2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vscode.svg,Freebird Proxy,VSCoder,https://coder.starshipks.com/
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/blue-iris.png,Starship Local,BlueIris,http://192.168.99.97:51081/
+3,https://cdn.jsdelivr.net/gh/selfhst/icons/png/opnsense-v1.png,Starship Local,Firewall,https://192.168.99.1:10443/index.php
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/graylog.png,Starship Local,Graylog,http://192.168.99.202:9400/
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/immich.png,Starship Local,Immich,http://192.168.99.90:2283/photos
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jellyfin-vue.png,Starship Local,JellyFin,http://192.168.99.101:8096/web/index.html#/login.html?serverid=60a0152111ee45989249b517052c0965&url=%2Fhome.html
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/librenms.png,Starship Local,LibreNMS,http://192.168.99.222:8000/overview?dashboard=2
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nginx.png,Starship Local,NPM,http://192.168.88.101:81/login
+3,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_drink_water_reminder.svg,Starship Local,NTI,http://192.168.177.64/
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/omada.png,Starship Local,Omada,https://192.168.99.222:8043/login
+3,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_plex_vr.svg,Starship Local,Plex,http://192.168.99.101:32400/web/index.html#!/
+3,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Local,\Moses - PBS,https://192.168.99.13:8007/
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Local,\Revelations - PVE,https://192.168.99.11:8006
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Local,\Exodus - PVE,https://192.168.99.16:8006
+3,https://cdn.jsdelivr.net/gh/selfhst/icons/png/synology-light.png,Starship Local,Synology,http://192.168.99.5:5000/
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unraid.svg,Starship Local,UnRaid,http://192.168.99.22
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/watchyourlan.png,Starship Local,Watch My Lan,http://192.168.99.30:8840
+4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/goaccess-light.png,Starship Proxy,Go Access,https://stats.starshipks.com/
+4,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_aimp.svg,Starship Proxy,AI Snapshots,https://biai.starshipks.com/
+4,https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets//assets/bitwarden.svg,Starship Proxy,Bitwarden,https://vw.starshipks.com/
+4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/blue-iris.png,Starship Proxy,BlueIris,https://bi.starshipks.com/
+4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/immich.png,Starship Proxy,Immich,https://photos.starshipks.com/photos
+4,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Proxy,PVE Backup,https://vpn.starshipks.com:8007/
+4,https://cdn.jsdelivr.net/gh/selfhst/icons/png/flatnotes.png,Starship Proxy,Notes DOCMOST,https://notes.starshipks.com
+5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg,CHS - Daily Tools,SSRS - Reports,https://mt058w0a004.chsinc.ds/reports/browse/
+5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/passwordpusher.png,CHS - Daily Tools,Thyotic Password,https://chsinc.secretservercloud.com/app/#/secrets/view/favorites
+5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/palo-alto.svg,CHS - Daily Tools,PAN - T0 - InPrivate,https://pan.chsinc.ds/?#monitor::fw1mcpherson::monitor/logs/traffic
+5,https://cdn.simpleicons.org/snowflake,CHS - Daily Tools,SNOW - Service Now,https://chsinc.service-now.com/
+5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-devops.svg,CHS - Daily Tools,Azure DEVOPS,https://chsinc.visualstudio.com/CHS/_boards/board/t/Global%20Infrastructure/Features
+5,https://cdn.jsdelivr.net/gh/selfhst/icons/png/donetick.png,CHS - Daily Tools,Create New Ticket,https://chsinc.service-now.com/solutions
+5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-vcenter.png,CHS - Daily Tools,VMWare - Branch Office,https://usksmcp1h5a001.chsinc.ds/ui/
+5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-vcenter.png,CHS - Daily Tools,VMWare - CORP V0 SC Account,https://mn601h5a007.chsinc.ds/
+5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-vcenter.png,CHS - Daily Tools,VMWare - Cloud - SC Acc - InPrivate,https://console.cloud.vmware.com
+5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-vcenter.png,CHS - Daily Tools,VMWare - KS100,https://172.20.200.74/
+5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-vcenter.png,CHS - Daily Tools,VMWare - MT058,https://172.60.5.98/
+6,https://cdn.jsdelivr.net/gh/selfhst/icons/png/dollardollar-bill-y-all.png,CHS - HR - Other,COUPA,https://chsinc.coupahost.com/user/home
+6,https://cdn.jsdelivr.net/gh/selfhst/icons/png/anchr-light.png,CHS - HR - Other,Lawson,https://lawportal.chsinc.com/lawson/portal/index.htm
+6,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_hotels_com.svg,CHS - HR - Other,Concur,https://concur.chsinc.com/SecureAuth15/SecureAuth.aspx
+6,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ldap-account-manager.png,CHS - HR - Other,Performance Manager,https://myapps.microsoft.com/signin/SAP%20SuccessFactors/3648c5a7-978b-4252-8b42-3f206999143e?tenantId=0b03090b-7ffa-45ab-a46b-387130ec0633
+6,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nextcloud-timemanager.png,CHS - HR - Other,Time Manager,https://chs.cloud.infor.com/login.jsp?config=false&locale=EN
+6,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openproject.png,CHS - HR - Other,PWA,https://chsinc.sharepoint.com/sites/pwa/default.aspx
+7,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_faceunlock.svg,CHS - Tools,Account Unlock,https://passwordreset.microsoftonline.com
+7,https://cdn.jsdelivr.net/gh/selfhst/icons/png/omada.png,CHS - Tools,OMADA,https://access.chsinc.com/home
+7,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_solar_system_scope.svg,CHS - Tools,Solarwinds,https://orion.chsinc.ds/Orion/SummaryView.aspx?ViewID=606
+7,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cyberchef-light.svg,CHS - Tools,CHEF,https://chef-automate.chsinc.ds/
+7,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_smt_camera.svg,CHS - Tools,Milestone Portal,https://online.milestonesys.com/Account/Login#/
+7,https://cdn.jsdelivr.net/gh/selfhst/icons/png/owntracks-light.png,CHS - Tools,Dynatrace,https://ugt80968.live.dynatrace.com/#vcenters/vcenterdetails;id=VCENTER-D2AA295B1D702FBF;gtf=-2h
+7,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/infoblox.png,CHS - Tools,Infoblox,https://infoblox.chsinc.ds
+7,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/cloudflare-zero-trust.png,CHS - Tools,Bomgar USKSMCP1,https://ks100bomgar.chsinc.com/login/status
+7,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/jetkvm.svg,CHS - Tools,KVM USKSMCP1,https://172.20.220.11/home.asp
+8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,IT Camera Policy,https://chsinc.service-now.com/nav_to.do?uri=%2Fkb_view.do%3Fsys_kb_id%3D9c2df5b91b656510baf5866fdc4bcbcf%26sysparm_rank%3D1%26sysparm_tsqueryId%3Db0a83c7a1b7ba9d0e0028663cc4bcb86
+8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Change Control Documents,https://clients.intelex.com/Login3/CHS/Application/DocCtrl/Documents
+8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Global Infra CMDB KS100,https://chsinc.sharepoint.com/sites/IT/CMDB%20Site%20Repository/Shared%20Documents/Forms/AllItems.aspx?OR=Teams%2DHL&CT=1654206032772&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9&id=%2Fsites%2FIT%2FCMDB%20Site%20Repository%2FShared%20Documents%2FUSKSMCP1&viewid=d2b6d247%2D9537%2D4938%2Dbd14%2D374cc5c0e5ba
+8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Global Infra CMDB All,https://chsinc.sharepoint.com/sites/IT/CMDB%20Site%20Repository/Shared%20Documents/Forms/AllItems.aspx?OR=Teams%2DHL&CT=1654206032772&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9&viewid=d2b6d247%2D9537%2D4938%2Dbd14%2D374cc5c0e5ba
+8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Service Now CMDB,https://chsinc.service-now.com/nav_to.do?uri=%2Fcmdb_ci_server_list.do%3Fsysparm_userpref_module%3D8233ee770a0a0a64018f2cc165cdf2ed%26sysparm_clear_stack%3Dtrue
