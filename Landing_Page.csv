@@ -13,6 +13,7 @@ position,IconPath,GROUP Name,Name,URL
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linkwarden.png,Freebird Proxy,Linkwarden,https://linkwarden.starshipks.com/
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/meshcentral.png,Freebird Proxy,MeshCentral,https://rs.starshipks.com/
 2,https://cdn.jsdelivr.net/gh/selfhst/icons/png/ara-records-ansible-light.png,Freebird Proxy,Order Tracking,https://ordertracking.starshipks.com/
+2,https://cdn.jsdelivr.net/gh/selfhst/icons/png/glance.png,Freebird Proxy,Glances,https://glances.starshipks.com/
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Freebird Proxy,PVE,https://lab.starshipks.com:48006/
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tandoor-recipes.png,Freebird Proxy,Tandoori,https://tandoor.starshipks.com/
 2,https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets//assets/uptimekuma.svg,Freebird Proxy,UptimeKuma,https://labkuma.starshipks.com/dashboard
