@@ -30,10 +30,10 @@ position,IconPath,GROUP Name,Name,URL
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/omada.png,Starship Local,Omada,https://192.168.99.222:8043/login
 3,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_plex_vr.svg,Starship Local,Plex,http://192.168.99.101:32400/web/index.html#!/
 3,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Local,PBS Moses,https://192.168.99.13:8007/
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Local,PVE Revelations - PVE,https://192.168.99.11:8006
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Local,PVE Exodus - PVE,https://192.168.99.16:8006
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Local,PVE ACTS - PVE,https://192.168.99.16:8006
-3,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Local,PBS ACTS - PVE,https://192.168.99.16:8006
+3,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Local,PBS ACTS,https://192.168.99.16:8006
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Local,PVE Revelations,https://192.168.99.11:8006
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Local,PVE Exodus,https://192.168.99.16:8006
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Local,PVE ACTS,https://192.168.99.16:8006
 3,https://cdn.jsdelivr.net/gh/selfhst/icons/png/synology-light.png,Starship Local,Synology,http://192.168.99.5:5000/
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unraid.svg,Starship Local,UnRaid,http://192.168.99.22
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/watchyourlan.png,Starship Local,Watch My Lan,http://192.168.99.30:8840
