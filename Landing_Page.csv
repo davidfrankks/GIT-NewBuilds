@@ -37,6 +37,7 @@ position,IconPath,GROUP Name,Name,URL
 3,https://cdn.jsdelivr.net/gh/selfhst/icons/png/synology-light.png,Starship Local,Synology,http://192.168.99.5:5000/
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unraid.svg,Starship Local,UnRaid,http://192.168.99.22
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/watchyourlan.png,Starship Local,Watch My Lan,http://192.168.99.30:8840
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/syncthing.png,Starship Local,SyncThing,http://192.168.99.22:8384/
 4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/goaccess-light.png,Starship Proxy,Go Access,https://stats.starshipks.com/
 4,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_aimp.svg,Starship Proxy,AI Snapshots,https://biai.starshipks.com/
 4,https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets//assets/bitwarden.svg,Starship Proxy,Bitwarden,https://vw.starshipks.com/
