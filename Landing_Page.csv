@@ -14,37 +14,34 @@ position,IconPath,GROUP Name,Name,URL
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/meshcentral.png,Freebird Proxy,MeshCentral,https://rs.starshipks.com/
 2,https://cdn.jsdelivr.net/gh/selfhst/icons/png/ara-records-ansible-light.png,Freebird Proxy,Order Tracking,https://ordertracking.starshipks.com/
 2,https://cdn.jsdelivr.net/gh/selfhst/icons/png/glance.png,Freebird Proxy,Glances,https://glances.starshipks.com/
-2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Freebird Proxy,PVE,https://lab.starshipks.com:48006/
+2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Freebird Proxy,PVE Cluster,https://lab.starshipks.com:48006/
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tandoor-recipes.png,Freebird Proxy,Tandoori,https://tandoor.starshipks.com/
 2,https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets//assets/uptimekuma.svg,Freebird Proxy,UptimeKuma,https://labkuma.starshipks.com/dashboard
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pastebin-dark.png,Freebird Proxy,PasteBin,https://pastebin.starshipks.com
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vscode.svg,Freebird Proxy,VSCoder,https://coder.starshipks.com/
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/blue-iris.png,Starship Local,BlueIris,http://192.168.99.97:51081/
-3,https://cdn.jsdelivr.net/gh/selfhst/icons/png/opnsense-v1.png,Starship Local,Firewall,https://192.168.99.1:10443/index.php
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/graylog.png,Starship Local,Graylog,http://192.168.99.202:9400/
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/immich.png,Starship Local,Immich,http://192.168.99.90:2283/photos
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jellyfin-vue.png,Starship Local,JellyFin,http://192.168.99.101:8096/web/index.html#/login.html?serverid=60a0152111ee45989249b517052c0965&url=%2Fhome.html
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/librenms.png,Starship Local,LibreNMS,http://192.168.99.222:8000/overview?dashboard=2
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nginx.png,Starship Local,NPM,http://192.168.88.101:81/login
-3,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_drink_water_reminder.svg,Starship Local,NTI,http://192.168.177.64/
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/omada.png,Starship Local,Omada,https://192.168.99.222:8043/login
-3,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_plex_vr.svg,Starship Local,Plex,http://192.168.99.101:32400/web/index.html#!/
-3,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Local,PBS Moses,https://192.168.99.13:8007/
-3,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Local,PBS ACTS,https://192.168.99.16:8006
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Local,PVE Revelations,https://192.168.99.11:8006
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Local,PVE Exodus,https://192.168.99.16:8006
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Local,PVE ACTS,https://192.168.99.16:8006
-3,https://cdn.jsdelivr.net/gh/selfhst/icons/png/synology-light.png,Starship Local,Synology,http://192.168.99.5:5000/
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unraid.svg,Starship Local,UnRaid,http://192.168.99.22
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/watchyourlan.png,Starship Local,Watch My Lan,http://192.168.99.30:8840
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/syncthing.png,Starship Local,SyncThing,http://192.168.99.22:8384/
-4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/goaccess-light.png,Starship Proxy,Go Access,https://stats.starshipks.com/
-4,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_aimp.svg,Starship Proxy,AI Snapshots,https://biai.starshipks.com/
-4,https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets//assets/bitwarden.svg,Starship Proxy,Bitwarden,https://vw.starshipks.com/
-4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/blue-iris.png,Starship Proxy,BlueIris,https://bi.starshipks.com/
-4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/immich.png,Starship Proxy,Immich,https://photos.starshipks.com/photos
-4,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Proxy,PVE Backup,https://vpn.starshipks.com:8007/
-4,https://cdn.jsdelivr.net/gh/selfhst/icons/png/flatnotes.png,Starship Proxy,Notes DOCMOST,https://notes.starshipks.com
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/blue-iris.png,Starship Home,BlueIris,http://192.168.99.97:51081/
+3,https://cdn.jsdelivr.net/gh/selfhst/icons/png/opnsense-v1.png,Starship Home,Firewall,https://192.168.99.1:10443/
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/immich.png,Starship Home,Immich,http://192.168.99.90:2283/photos
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jellyfin-vue.png,Starship Home,JellyFin,http://192.168.99.101:8096
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/librenms.png,Starship Home,LibreNMS,http://192.168.99.222:8000/overview?dashboard=2
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nginx.png,Starship Home,NPM,http://192.168.88.101:81/login
+3,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_drink_water_reminder.svg,Starship Home,NTI,http://192.168.177.64/
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/omada.png,Starship Home,Omada,https://192.168.99.222:8043/login
+3,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Home,PVE-BKP Moses,https://192.168.99.13:8007/
+3,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_plex_vr.svg,Starship Home,Plex,http://192.168.99.101:32400/web/index.html#!/
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Home,PVE Exodus,https://192.168.99.16:8006
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Home,PVE Revelations,https://192.168.99.11:8006
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/syncthing.png,Starship Home,SyncThing,http://192.168.99.22:8384/
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unraid.svg,Starship Home,UnRaid,http://192.168.99.22
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/watchyourlan.png,Starship Home,Watch My Lan,http://192.168.99.30:8840
+4,https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets/assets/bitwarden.svg,Starship Proxied,Bitwarden,https://vw.starshipks.com/
+4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/blue-iris.png,Starship Proxied,BlueIris,https://bi.starshipks.com/
+4,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_aimp.svg,Starship Proxied,BlueIris AI,https://biai.starshipks.com/
+4,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitea.svg,Starship Proxied,GitTea,https://git.starshipks.com/
+4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/immich.png,Starship Proxied,Immich,https://photos.starshipks.com/photos
+4,https://cdn.jsdelivr.net/gh/selfhst/icons/png/flatnotes.png,Starship Proxied,Notes,https://notes.starshipks.com
+4,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Proxied,PVE-BKP ACTS,https://192.168.99.16:8006
+4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Proxied,PVE ACTS,https://192.168.99.16:8006
 5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg,CHS - Daily Tools,SSRS - Reports,https://mt058w0a004.chsinc.ds/reports/browse/
 5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/passwordpusher.png,CHS - Daily Tools,Thyotic Password,https://chsinc.secretservercloud.com/app/#/secrets/view/favorites
 5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/palo-alto.svg,CHS - Daily Tools,PAN - T0 - InPrivate,https://pan.chsinc.ds/?#monitor::fw1mcpherson::monitor/logs/traffic
