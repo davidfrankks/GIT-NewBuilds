@@ -40,7 +40,7 @@ position,IconPath,GROUP Name,Name,URL
 4,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitea.svg,Starship Proxied,GitTea,https://git.starshipks.com/
 4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/immich.png,Starship Proxied,Immich,https://photos.starshipks.com/photos
 4,https://cdn.jsdelivr.net/gh/selfhst/icons/png/flatnotes.png,Starship Proxied,Notes,https://notes.starshipks.com
-4,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Proxied,PVE-BKP ACTS,https://actspbs.starshpiks.com
+4,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Proxied,PVE-BKP ACTS,https://actspbs.starshipks.com
 4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Proxied,PVE ACTS,https://acts.starshipks.com
 5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg,CHS - Daily Tools,SSRS - Reports,https://mt058w0a004.chsinc.ds/reports/browse/
 5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/passwordpusher.png,CHS - Daily Tools,Thyotic Password,https://chsinc.secretservercloud.com/app/#/secrets/view/favorites
