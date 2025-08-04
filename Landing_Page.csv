@@ -21,6 +21,7 @@ position,IconPath,GROUP Name,Name,URL
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vscode.svg,Freebird Proxy,VSCoder,https://coder.starshipks.com/
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/blue-iris.png,Starship Home,BlueIris,http://192.168.99.97:51081/
 3,https://cdn.jsdelivr.net/gh/selfhst/icons/png/opnsense-v1.png,Starship Home,Firewall,https://192.168.99.1:10443/
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adguard-home.svg,Starship Home,AdGuard,https://192.168.99.53
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/immich.png,Starship Home,Immich,http://192.168.99.90:2283/photos
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jellyfin-vue.png,Starship Home,JellyFin,http://192.168.99.101:8096
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/librenms.png,Starship Home,LibreNMS,http://192.168.99.222:8000/overview?dashboard=2
@@ -73,3 +74,4 @@ position,IconPath,GROUP Name,Name,URL
 8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Global Infra CMDB KS100,https://chsinc.sharepoint.com/sites/IT/CMDB%20Site%20Repository/Shared%20Documents/Forms/AllItems.aspx?OR=Teams%2DHL&CT=1654206032772&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9&id=%2Fsites%2FIT%2FCMDB%20Site%20Repository%2FShared%20Documents%2FUSKSMCP1&viewid=d2b6d247%2D9537%2D4938%2Dbd14%2D374cc5c0e5ba
 8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Global Infra CMDB All,https://chsinc.sharepoint.com/sites/IT/CMDB%20Site%20Repository/Shared%20Documents/Forms/AllItems.aspx?OR=Teams%2DHL&CT=1654206032772&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9&viewid=d2b6d247%2D9537%2D4938%2Dbd14%2D374cc5c0e5ba
 8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Service Now CMDB,https://chsinc.service-now.com/nav_to.do?uri=%2Fcmdb_ci_server_list.do%3Fsysparm_userpref_module%3D8233ee770a0a0a64018f2cc165cdf2ed%26sysparm_clear_stack%3Dtrue
+
