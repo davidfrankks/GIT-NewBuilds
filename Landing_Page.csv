@@ -1,12 +1,10 @@
 position,IconPath,GROUP Name,Name,URL
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/graylog.png,Freebird Local,Graylog,http://192.168.1.75:9000/
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nginx.png,Freebird Local,NPM,http://192.168.1.52:81/nginx/proxy
-1,https://cdn.jsdelivr.net/gh/selfhst/icons/png/portainer.png,Freebird Local,Portainer,https://192.168.1.50:9443/#!/home
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Freebird Local,PVE,https://192.168.1.3:8006/
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/remotely.png,Freebird Local,PVE1 DRAC,http://192.168.1.6/
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/remotely.png,Freebird Local,PVE2 DRAC,http://192.168.1.7/
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/remotely.png,Freebird Local,PVE3 DRAC,http://192.168.1.8/
-2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/apache.png,Freebird Proxy,Apache Guac,https://guac.starshipks.com/#/
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/goaccess-light.png,Freebird Proxy,GoAccess,https://labstats.starshipks.com/
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/grafana.png,Freebird Proxy,Grafana,https://metrics.starshipks.com/
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/graylog.png,Freebird Proxy,Graylog,https://graylog.starshipks.com/
@@ -17,7 +15,6 @@ position,IconPath,GROUP Name,Name,URL
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Freebird Proxy,PVE Cluster,https://lab.starshipks.com:48006/
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tandoor-recipes.png,Freebird Proxy,Tandoori,https://tandoor.starshipks.com/
 2,https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets//assets/uptimekuma.svg,Freebird Proxy,UptimeKuma,https://labkuma.starshipks.com/dashboard
-2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pastebin-dark.png,Freebird Proxy,PasteBin,https://pastebin.starshipks.com
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vscode.svg,Freebird Proxy,VSCoder,https://coder.starshipks.com/
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/blue-iris.png,Starship Home,BlueIris,http://192.168.99.97:51081/
 3,https://cdn.jsdelivr.net/gh/selfhst/icons/png/opnsense-v1.png,Starship Home,Firewall,https://192.168.99.1:10443/
@@ -28,10 +25,11 @@ position,IconPath,GROUP Name,Name,URL
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nginx.png,Starship Home,NPM,http://192.168.88.101:81/login
 3,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_drink_water_reminder.svg,Starship Home,NTI,http://192.168.177.64/
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/omada.png,Starship Home,Omada,https://192.168.99.222:8043/login
-3,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Home,PVE-BKP Moses,https://192.168.99.13:8007/
 3,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_plex_vr.svg,Starship Home,Plex,http://192.168.99.101:32400/web/index.html#!/
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Home,PVE Exodus,https://192.168.99.16:8006
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Home,PVE Chronicles,https://192.168.99.12:8006
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Home,PVE Jude,https://192.168.99.14:8006
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Home,PVE Revelations,https://192.168.99.11:8006
+3,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Home,PBS John,https://192.168.99.15:8006
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/syncthing.png,Starship Home,SyncThing,http://192.168.99.22:8384/
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unraid.svg,Starship Home,UnRaid,http://192.168.99.22
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/watchyourlan.png,Starship Home,Watch My Lan,http://192.168.99.30:8840
@@ -41,8 +39,8 @@ position,IconPath,GROUP Name,Name,URL
 4,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitea.svg,Starship Proxied,GitTea,https://git.starshipks.com/
 4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/immich.png,Starship Proxied,Immich,https://photos.starshipks.com/photos
 4,https://cdn.jsdelivr.net/gh/selfhst/icons/png/flatnotes.png,Starship Proxied,Notes,https://notes.starshipks.com
-4,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Proxied,PVE-BKP ACTS,https://actspbs.starshipks.com
-4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Proxied,PVE ACTS,https://acts.starshipks.com
+4,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Proxied,PBS Acts,https://actspbs.starshipks.com
+4,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Starship Proxied,PVE Acts,https://acts.starshipks.com
 5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg,CHS - Daily Tools,SSRS - Reports,https://mt058w0a004.chsinc.ds/reports/browse/
 5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/passwordpusher.png,CHS - Daily Tools,Thyotic Password,https://chsinc.secretservercloud.com/app/#/secrets/view/favorites
 5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/palo-alto.svg,CHS - Daily Tools,PAN - T0 - InPrivate,https://pan.chsinc.ds/?#monitor::fw1mcpherson::monitor/logs/traffic
@@ -74,4 +72,3 @@ position,IconPath,GROUP Name,Name,URL
 8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Global Infra CMDB KS100,https://chsinc.sharepoint.com/sites/IT/CMDB%20Site%20Repository/Shared%20Documents/Forms/AllItems.aspx?OR=Teams%2DHL&CT=1654206032772&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9&id=%2Fsites%2FIT%2FCMDB%20Site%20Repository%2FShared%20Documents%2FUSKSMCP1&viewid=d2b6d247%2D9537%2D4938%2Dbd14%2D374cc5c0e5ba
 8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Global Infra CMDB All,https://chsinc.sharepoint.com/sites/IT/CMDB%20Site%20Repository/Shared%20Documents/Forms/AllItems.aspx?OR=Teams%2DHL&CT=1654206032772&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9&viewid=d2b6d247%2D9537%2D4938%2Dbd14%2D374cc5c0e5ba
 8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Service Now CMDB,https://chsinc.service-now.com/nav_to.do?uri=%2Fcmdb_ci_server_list.do%3Fsysparm_userpref_module%3D8233ee770a0a0a64018f2cc165cdf2ed%26sysparm_clear_stack%3Dtrue
-
