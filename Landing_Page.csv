@@ -1,6 +1,6 @@
 position,IconPath,GROUP Name,Name,URL
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/graylog.png,Freebird Local,Graylog,http://192.168.1.75:9000/
-1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nginx.png,Freebird Local,NPM,http://192.168.1.52:81/nginx/proxy
+1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nginx.png,Freebird Local,NPM,http://192.168.1.54:81/nginx/proxy
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Freebird Local,PVE,https://192.168.1.3:8006/
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/remotely.png,Freebird Local,PVE1 DRAC,http://192.168.1.6/
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/remotely.png,Freebird Local,PVE2 DRAC,http://192.168.1.7/
@@ -14,11 +14,9 @@ position,IconPath,GROUP Name,Name,URL
 2,https://cdn.jsdelivr.net/gh/selfhst/icons/png/glance.png,Freebird Proxy,Glances,https://glances.starshipks.com/
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Freebird Proxy,PVE Cluster,https://lab.starshipks.com:48006/
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/tandoor-recipes.png,Freebird Proxy,Tandoori,https://tandoor.starshipks.com/
-2,https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets//assets/uptimekuma.svg,Freebird Proxy,UptimeKuma,https://labkuma.starshipks.com/dashboard
-2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vscode.svg,Freebird Proxy,VSCoder,https://coder.starshipks.com/
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/blue-iris.png,Starship Home,BlueIris,http://192.168.99.97:51081/
 3,https://cdn.jsdelivr.net/gh/selfhst/icons/png/opnsense-v1.png,Starship Home,Firewall,https://192.168.99.1:10443/
-3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adguard-home.svg,Starship Home,AdGuard,https://192.168.99.53
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adguard-home.svg,Starship Home,AdGuard,http://192.168.99.53
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/immich.png,Starship Home,Immich,http://192.168.99.90:2283/photos
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jellyfin-vue.png,Starship Home,JellyFin,http://192.168.99.101:8096
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/librenms.png,Starship Home,LibreNMS,http://192.168.99.222:8000/overview?dashboard=2
@@ -74,5 +72,6 @@ position,IconPath,GROUP Name,Name,URL
 8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Global Infra CMDB KS100,https://chsinc.sharepoint.com/sites/IT/CMDB%20Site%20Repository/Shared%20Documents/Forms/AllItems.aspx?OR=Teams%2DHL&CT=1654206032772&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9&id=%2Fsites%2FIT%2FCMDB%20Site%20Repository%2FShared%20Documents%2FUSKSMCP1&viewid=d2b6d247%2D9537%2D4938%2Dbd14%2D374cc5c0e5ba
 8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Global Infra CMDB All,https://chsinc.sharepoint.com/sites/IT/CMDB%20Site%20Repository/Shared%20Documents/Forms/AllItems.aspx?OR=Teams%2DHL&CT=1654206032772&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9&viewid=d2b6d247%2D9537%2D4938%2Dbd14%2D374cc5c0e5ba
 8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Service Now CMDB,https://chsinc.service-now.com/nav_to.do?uri=%2Fcmdb_ci_server_list.do%3Fsysparm_userpref_module%3D8233ee770a0a0a64018f2cc165cdf2ed%26sysparm_clear_stack%3Dtrue
+
 
 
