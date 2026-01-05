@@ -54,11 +54,11 @@ position,IconPath,GROUP Name,Name,URL
 5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-vcenter.png,CHS - Daily Tools,VMWare - KS100,https://172.20.200.74/
 5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-vcenter.png,CHS - Daily Tools,VMWare - MT058,https://172.60.5.98/
 6,https://cdn.jsdelivr.net/gh/selfhst/icons/png/anchr-light.png,CHS - HR - Other,Retired - Lawson,https://lawportal.chsinc.com/lawson/portal/index.htm
-6,https://cdn.jsdelivr.net/gh/selfhst/icons/png/anchr-light.png,CHS - HR - Other,Day Force - Lawson,https://sso.dayforcehcm.com/chsinc
+6,https://cdn.jsdelivr.net/gh/selfhst/icons/png/anchr-light.png,CHS - HR - Other,Day Force,https://sso.dayforcehcm.com/chsinc
 6,https://cdn.jsdelivr.net/gh/selfhst/icons/png/dollardollar-bill-y-all.png,CHS - HR - Other,COUPA,https://chsinc.coupahost.com/user/home
 6,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_hotels_com.svg,CHS - HR - Other,Concur,https://concur.chsinc.com/SecureAuth15/SecureAuth.aspx
 6,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ldap-account-manager.png,CHS - HR - Other,Performance Manager,https://myapps.microsoft.com/signin/SAP%20SuccessFactors/3648c5a7-978b-4252-8b42-3f206999143e?tenantId=0b03090b-7ffa-45ab-a46b-387130ec0633
-6,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nextcloud-timemanager.png,CHS - HR - Other,Day Force,https://sso.dayforcehcm.com/chsinc
+6,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nextcloud-timemanager.png,CHS - HR - Other,CHS Source,https://source.chsinc.com
 6,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openproject.png,CHS - HR - Other,PWA,https://chsinc.sharepoint.com/sites/pwa/default.aspx
 7,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_faceunlock.svg,CHS - Tools,Account Unlock,https://passwordreset.microsoftonline.com
 7,https://cdn.jsdelivr.net/gh/selfhst/icons/png/omada.png,CHS - Tools,OMADA,https://access.chsinc.com/home
@@ -74,6 +74,7 @@ position,IconPath,GROUP Name,Name,URL
 8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Global Infra CMDB KS100,https://chsinc.sharepoint.com/sites/IT/CMDB%20Site%20Repository/Shared%20Documents/Forms/AllItems.aspx?OR=Teams%2DHL&CT=1654206032772&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9&id=%2Fsites%2FIT%2FCMDB%20Site%20Repository%2FShared%20Documents%2FUSKSMCP1&viewid=d2b6d247%2D9537%2D4938%2Dbd14%2D374cc5c0e5ba
 8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Global Infra CMDB All,https://chsinc.sharepoint.com/sites/IT/CMDB%20Site%20Repository/Shared%20Documents/Forms/AllItems.aspx?OR=Teams%2DHL&CT=1654206032772&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9&viewid=d2b6d247%2D9537%2D4938%2Dbd14%2D374cc5c0e5ba
 8,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/synology-document-viewer.png,CHS - Docs,Service Now CMDB,https://chsinc.service-now.com/nav_to.do?uri=%2Fcmdb_ci_server_list.do%3Fsysparm_userpref_module%3D8233ee770a0a0a64018f2cc165cdf2ed%26sysparm_clear_stack%3Dtrue
+
 
 
 
