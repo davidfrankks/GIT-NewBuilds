@@ -31,6 +31,7 @@ position,IconPath,GROUP Name,Name,URL
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gotify.svg,Starship Home,Gotify,http://192.168.99.245:18080/#/
 3,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Starship Home,PBS John,https://192.168.99.15:8007
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/syncthing.png,Starship Home,SyncThing,http://192.168.99.22:8384/
+3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/syncthing.png,Starship Home,SyncThing MKD,http://192.168.99.51:8384/
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unraid.svg,Starship Home,UnRaid,http://192.168.99.22
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/watchyourlan.png,Starship Home,Watch My Lan,http://192.168.99.30:8840
 4,https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets/assets/bitwarden.svg,Starship Proxied,Bitwarden,https://vw.starshipks.com/
@@ -52,11 +53,12 @@ position,IconPath,GROUP Name,Name,URL
 5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-vcenter.png,CHS - Daily Tools,VMWare - Cloud - SC Acc - InPrivate,https://console.cloud.vmware.com
 5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-vcenter.png,CHS - Daily Tools,VMWare - KS100,https://172.20.200.74/
 5,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-vcenter.png,CHS - Daily Tools,VMWare - MT058,https://172.60.5.98/
+6,https://cdn.jsdelivr.net/gh/selfhst/icons/png/anchr-light.png,CHS - HR - Other,Retired - Lawson,https://lawportal.chsinc.com/lawson/portal/index.htm
+6,https://cdn.jsdelivr.net/gh/selfhst/icons/png/anchr-light.png,CHS - HR - Other,Day Force - Lawson,https://sso.dayforcehcm.com/chsinc
 6,https://cdn.jsdelivr.net/gh/selfhst/icons/png/dollardollar-bill-y-all.png,CHS - HR - Other,COUPA,https://chsinc.coupahost.com/user/home
-6,https://cdn.jsdelivr.net/gh/selfhst/icons/png/anchr-light.png,CHS - HR - Other,Lawson,https://lawportal.chsinc.com/lawson/portal/index.htm
 6,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_hotels_com.svg,CHS - HR - Other,Concur,https://concur.chsinc.com/SecureAuth15/SecureAuth.aspx
 6,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ldap-account-manager.png,CHS - HR - Other,Performance Manager,https://myapps.microsoft.com/signin/SAP%20SuccessFactors/3648c5a7-978b-4252-8b42-3f206999143e?tenantId=0b03090b-7ffa-45ab-a46b-387130ec0633
-6,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nextcloud-timemanager.png,CHS - HR - Other,Time Manager,https://chs.cloud.infor.com/login.jsp?config=false&locale=EN
+6,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nextcloud-timemanager.png,CHS - HR - Other,Day Force,https://sso.dayforcehcm.com/chsinc
 6,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openproject.png,CHS - HR - Other,PWA,https://chsinc.sharepoint.com/sites/pwa/default.aspx
 7,https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons//src/apps_faceunlock.svg,CHS - Tools,Account Unlock,https://passwordreset.microsoftonline.com
 7,https://cdn.jsdelivr.net/gh/selfhst/icons/png/omada.png,CHS - Tools,OMADA,https://access.chsinc.com/home
