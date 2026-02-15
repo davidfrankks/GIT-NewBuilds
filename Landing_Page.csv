@@ -16,6 +16,7 @@ position,IconPath,GROUP Name,Name,URL
 2,https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets//assets/uptimekuma.svg,Monitoring,UptimeKuma LOCAL,http://192.168.99.245:3001/dashboard/14
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/syncthing.png,Monitoring,SyncThing MKD,http://192.168.99.51:8384/
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/syncthing.png,Personal Local,SyncThing Personal,http://192.168.99.22:8384/
+2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg,Monitoring,Grafana Cloud,https://mkdperfmon.grafana.net/bookmarks
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/blue-iris.png,Personal Local,BlueIris,http://192.168.99.97:51081/
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adguard-home.svg,Personal Local,AdGuard,http://192.168.99.53
 3,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/immich.png,Personal Local,Immich,http://192.168.99.90:2283/photos
