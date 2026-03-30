@@ -10,7 +10,7 @@ position,IconPath,GROUP Name,Name,URL
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Infrastructure,COX PVE Acts Proxy,https://acts.starshipks.com
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Infrastructure,COX PVE Cluster Proxy,https://lab.starshipks.com:48006/
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/grafana.png,Monitoring,Grafana NPM,http://192.168.99.61:3000/dashboards
-2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/graylog.png,Monitoring,Graylog,http://192.168.88.75:9000/
+2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/graylog.png,Monitoring,Graylog,http://192.168.88.80:9000/
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/meshcentral.png,Monitoring,MeshCentral NPM,https://rs.starshipks.com/
 2,https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets//assets/uptimekuma.svg,Monitoring,UptimeKuma LOCAL,http://192.168.99.245:3001/dashboard/14
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/syncthing.png,Monitoring,SyncThing MKD,http://192.168.99.51:8384/
