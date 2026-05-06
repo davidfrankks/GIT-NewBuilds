@@ -5,10 +5,11 @@ position,IconPath,GROUP Name,Name,URL
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Infrastructure,PVE Revelations,https://192.168.99.11:8006
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-cassandra.svg,Infrastructure,PDM Monitoring,https://192.168.99.78:8443/#/
 1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unraid.svg,Infrastructure,UnRaid,http://192.168.99.22
+1,https://www.svgrepo.com/show/331593/synology.svg,Infrastructure,Synology,https://192.168.99.5:5001/#/signin
+1,https://cdn.jsdelivr.net/gh/selfhst/icons/png/opnsense-v1.png,Infrastructure,COX Firewall,https://174.79.100.53:10443/
 1,https://cdn.jsdelivr.net/gh/selfhst/icons/png/opnsense-v1.png,Infrastructure,Firewall,https://192.168.99.1:10443/
-1,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Infrastructure,COX PBS Acts Proxy,https://actspbs.starshipks.com
-1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Infrastructure,COX PVE Acts Proxy,https://acts.starshipks.com
-1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Infrastructure,COX PVE Cluster Proxy,https://lab.starshipks.com:48006/
+1,https://cdn.jsdelivr.net/gh/selfhst/icons/svg/proxmox-light.svg,Infrastructure,COX PBS Acts,https://174.79.100.53:8007
+1,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/proxmox.png,Infrastructure,COX PVE Acts,https://174.79.100.53:58006
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/grafana.png,Monitoring,Grafana NPM,http://192.168.99.61:3000/dashboards
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/graylog.png,Monitoring,Graylog,http://192.168.88.80:9000/
 2,https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/meshcentral.png,Monitoring,MeshCentral NPM,https://rs.starshipks.com/
